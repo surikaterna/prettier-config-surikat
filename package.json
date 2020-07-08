@@ -1,0 +1,12 @@
+{
+  "name": "prettier-config-surikaterna",
+  "version": "1.0.0",
+  "description": "Surikat's way of formatting JS/TS code",
+  "author": "Surikat <npm@surikat.se>",
+  "license": "MIT",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surikaterna/prettier-config-surikat.git"
+  }
+}
