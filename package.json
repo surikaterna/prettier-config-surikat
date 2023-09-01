@@ -10,6 +10,6 @@
     "url": "https://github.com/surikaterna/prettier-config-surikat.git"
   },
   "devDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.2.0"
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.0"
   }
 }
