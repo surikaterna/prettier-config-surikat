@@ -22,5 +22,8 @@
         "tabWidth": 4
       }
     }
-  ]
+  ],
+  "importOrder": ["^@surikat/(.*)$", "^@types/(.*)$", "^@material-ui/(.*)$", "^[./]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
 }
